@@ -11,12 +11,14 @@
  <a href="#sobre-o-projeto">Sobre o Projeto</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#configurações-necessárias">Configurações necessárias</a> •
+ <a href="#test_tube-executar-os-testes">Executar os testes</a> •
  <a href="#licença">Licença</a> •
  <a href="#autor">Autor</a>
 </p>
 
-![Untitled](https://user-images.githubusercontent.com/35200622/114745748-5d52f280-9d25-11eb-85e1-f4c091a4631b.png)
-![Untitled (1)](https://user-images.githubusercontent.com/35200622/114745749-5d52f280-9d25-11eb-89ab-83269cdac4d1.png)
+<p align="center">
+  <img src=".github/sample.gif" alt="sample"/>
+</p>
 
 
 ## Sobre o projeto
@@ -91,6 +93,15 @@ $ yarn dev
 ```
 
 ---
+
+## :test_tube: Executar os testes
+```bash
+# Instale as dependências caso já não instalou
+# Execute os testes
+$ yarn test
+ou
+$ npm run test
+```
 
 ## Licença
 
