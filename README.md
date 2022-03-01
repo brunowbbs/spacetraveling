@@ -96,7 +96,6 @@ $ yarn dev
 
 ## :test_tube: Executar os testes
 ```bash
-# Instale as dependências caso já não instalou
 # Execute os testes
 $ yarn test
 ou
