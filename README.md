@@ -7,9 +7,6 @@
 </h1>
 <p align="center">Aplicação em formato de blog utilizando Prismic CMS</p>
 
-![Untitled](https://user-images.githubusercontent.com/35200622/114745748-5d52f280-9d25-11eb-85e1-f4c091a4631b.png)
-![Untitled (1)](https://user-images.githubusercontent.com/35200622/114745749-5d52f280-9d25-11eb-89ab-83269cdac4d1.png)
-
 <p align="center">
  <a href="#sobre-o-projeto">Sobre o Projeto</a> •
  <a href="#tecnologias">Tecnologias</a> •
@@ -17,6 +14,11 @@
  <a href="#licença">Licença</a> •
  <a href="#autor">Autor</a>
 </p>
+
+
+![Untitled](https://user-images.githubusercontent.com/35200622/114745748-5d52f280-9d25-11eb-85e1-f4c091a4631b.png)
+![Untitled (1)](https://user-images.githubusercontent.com/35200622/114745749-5d52f280-9d25-11eb-89ab-83269cdac4d1.png)
+
 
 ## Sobre o projeto
 
